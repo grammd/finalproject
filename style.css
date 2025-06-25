@@ -42,11 +42,6 @@ nav a {
   font-weight: 500;
 }
 
-nav a:hover {
-  text-decoration: underline;
-}
-
-
 .intro {
   margin-bottom: 3rem;
 }
@@ -95,9 +90,6 @@ form {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
-  margin-left: auto;
-  margin-right: auto;
-  width: fit-content;
 }
 
 .form-group {
@@ -118,6 +110,7 @@ textarea {
   border: 1px solid #ccc;
   background-color: #fff;
   font-family: inherit;
+  border-radius: 6px;
 }
 
 input:focus,
@@ -137,6 +130,7 @@ button {
   font-size: 1rem;
   font-weight: 500;
   transition: background-color 0.2s;
+  border-radius: 6px;
 }
 
 button:hover {
@@ -194,6 +188,21 @@ footer {
   .about-image-col {
     justify-content: flex-start;
   }
+}
+
+.post-image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.about ul + h3 + ul a {
+  color: inherit;
+  
+}
+
+.hidden {
+  display: none;
 }
 
 
