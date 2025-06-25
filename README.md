@@ -9,7 +9,7 @@ Site: https://dsgsite.netlify.app/
 
 Repo: https://github.com/grammd/finalproject/
 
-Preproduction Doc: Shortened URL Dropbox link here
+Preproduction Doc: https://tinyurl.com/dsgwriteup
 
 Dominic Grammatico 6/25/2025
 
