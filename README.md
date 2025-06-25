@@ -22,8 +22,6 @@ Point Breakdown (400pts):
       -Must be formatted into a single document
       -Must include your original pitchboard (or a new one if you're changing ideas)
       -Must include annotated images/scans of your process
-      -This can be personal--develop your own if you'd like. But generally, it should be some combination of wireframes, flows, and comps
-      -The presentation of this document is important–imagine that it will be presented to a client
     -Validated HTML5 pages (40 points)
     -Separate CSS stylesheet (20 points)
     -Image requirement (20 points)
