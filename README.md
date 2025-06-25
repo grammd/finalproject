@@ -34,6 +34,6 @@ Point Breakdown (400pts):
     -Copywriting (quality scoring) (60 points)       
     -Design (quality scoring) (100 points)        
 
-# Validation
+# Validation:
 
 <img width="782" alt="Image" src="https://github.com/user-attachments/assets/72db2a60-22b3-4489-8cc8-eb80635b712c" />
