@@ -10,3 +10,26 @@ Site: https://dsgsite.netlify.app/
 Repo: https://github.com/grammd/finalproject/
 
 Dominic Grammatico 6/25/2025
+
+
+# Rubric:
+
+For my own use. 
+
+Point Breakdown (400pts):
+
+    -Pre-production write-up (80 points)
+      -Must be formatted into a single document
+      -Must include your original pitchboard (or a new one if you're changing ideas)
+      -Must include annotated images/scans of your process
+      -This can be personal--develop your own if you'd like. But generally, it should be some combination of wireframes, flows, and comps
+      -The presentation of this document is important–imagine that it will be presented to a client
+    -Validated HTML5 pages (40 points)
+    -Separate CSS stylesheet (20 points)
+    -Image requirement (20 points)
+    -Layout method requirement (20 points)
+    -Responsive requirement (20 points)
+    -Spelling and Grammar (20 points)
+    -Github and Netlify hosting (20 points)
+    -Copywriting (quality scoring) (60 points)       
+    -Design (quality scoring) (100 points)        
