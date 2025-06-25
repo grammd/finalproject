@@ -5,8 +5,8 @@ This is the new repo for my final project website.
 
 # Links:
 
-dsgsite.netlify.app
+Site: https://dsgsite.netlify.app/
 
-https://github.com/grammd/finalproject/edit/main/README.md
+Repo: https://github.com/grammd/finalproject/
 
 Dominic Grammatico 6/25/2025
