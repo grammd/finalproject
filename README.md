@@ -1,2 +1,2 @@
-# finalproject
-New repo for final project website
+# MI 349 Final Project
+This is the new repo for my final project website. 
