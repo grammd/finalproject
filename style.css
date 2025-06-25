@@ -95,6 +95,9 @@ form {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
 }
 
 .form-group {
@@ -192,4 +195,5 @@ footer {
     justify-content: flex-start;
   }
 }
+
 
