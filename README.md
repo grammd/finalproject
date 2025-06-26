@@ -38,7 +38,7 @@ Point Breakdown (400pts):
 
 <img width="782" alt="Image" src="https://github.com/user-attachments/assets/72db2a60-22b3-4489-8cc8-eb80635b712c" />
 
-#Notes:
+# Notes:
 
 I've added significant improvements and features to the site. These are:
 
