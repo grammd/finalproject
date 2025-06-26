@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+
 body {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
   background-color: #f8f8f8;
@@ -16,6 +17,8 @@ body {
   margin: 0 auto;
   padding: 2rem;
 }
+
+
 
 
 header {
@@ -42,6 +45,10 @@ nav a {
   font-weight: 500;
 }
 
+
+
+
+
 .intro {
   margin-bottom: 3rem;
 }
@@ -50,6 +57,8 @@ nav a {
   font-size: 1.5rem;
   margin-bottom: 1rem;
 }
+
+
 
 .posts article {
   margin-bottom: 2rem;
@@ -85,6 +94,9 @@ nav a {
 }
 
 
+
+
+
 form {
   margin-top: 2rem;
   display: flex;
@@ -101,6 +113,9 @@ label {
   font-weight: 500;
   margin-bottom: 0.5rem;
 }
+
+
+
 
 input,
 select,
@@ -137,6 +152,10 @@ button:hover {
   background-color: #333;
 }
 
+
+
+
+
 footer {
   border-top: 2px solid #111;
   text-align: center;
@@ -144,6 +163,9 @@ footer {
   font-size: 0.9rem;
   margin-top: 4rem;
 }
+
+
+
 
 
 .about-columns {
@@ -179,6 +201,9 @@ footer {
   color: #666;
   margin-top: 0.5rem;
 }
+
+
+
 
 @media (max-width: 800px) {
   .about-columns {
