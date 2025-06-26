@@ -61,3 +61,5 @@ I've added significant improvements and features to the site. These are:
    --Newsletter email form is now aligned
     
 -And various visual improvements (rounded corners on buttons, etc.)
+
+-Copywriting fixes (spelling errors, etc.)
