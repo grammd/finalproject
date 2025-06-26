@@ -54,10 +54,10 @@ I've added significant improvements and features to the site. These are:
 
 -Various home page improvements:
 
-   -Blog posts now have a button so you can read the full post on a seperate page
+   --Blog posts now have a button so you can read the full post on a seperate page
 
-   -Blog post images are now all the same size
+   --Blog post images are now all the same size
 
-   -Newsletter email form is now aligned
+   --Newsletter email form is now aligned
     
 -And various visual improvements (rounded corners on buttons, etc.)
